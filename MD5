@@ -1,0 +1,11 @@
+810eaebabd03dbaa7cbc38b704313e1c *DESCRIPTION
+04f143716863a78e0b67ef2d18b02109 *NAMESPACE
+1b5c401c976aee2cf590bc59bba83102 *R/example_data.R
+eba1f332e3a9b8bb5012e5908fbdf6dc *R/f2.R
+e8c7031dce0986c3286843a6f6d5aca2 *R/fit_pharm_mod.R
+c517bc1ba5fd4a2b92299e695f47c84d *R/sim_test.R
+ea5fb787edbad5f6ff7fc045485f9bad *data/example_data.RData
+f4a7ba98808efb1f8f838def1fdefc43 *man/example_data.Rd
+ebfa6c5cf4272dff93cda00ddddf2a32 *man/f2.Rd
+0c1f98a46e50f2b4eac55dc5d526c58d *man/fit_pharm_mod.Rd
+f8bd439b290f8b45da2fb331db78e561 *man/sim_test.Rd
